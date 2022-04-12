@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534762500076",
+    "project_id": "yuzesleme",
+    "storage_bucket": "yuzesleme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534762500076:android:36cfdc4623e67255975ac9",
+        "android_client_info": {
+          "package_name": "com.hsalihkucuk.yuzeslemeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534762500076-dj9s0tafd400strbt27nii8tmi4ep89u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBygwOYQUS1-cYyklFRBfR4je6m0cE0xcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534762500076-dj9s0tafd400strbt27nii8tmi4ep89u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
